@@ -31,9 +31,3 @@ body .button:hover{
 .genres{
     display: inline-flex;
 }
-
-.dropdown {
-    display: inline;
-    color: lightblue;
-    text-decoration: none;
-}

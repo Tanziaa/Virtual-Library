@@ -5,7 +5,7 @@ header{
     margin-right: 300px;
 }
 
-body{
+body, details{
     text-align: center;
     background-color: rgb(150, 148, 146);
 }
@@ -17,4 +17,23 @@ body{
 
 body .button:hover{
     color: brown;
+}
+
+.Details{
+    text-decoration: none;
+    color: black;
+}
+
+.age{
+    display: block;
+}
+
+.genres{
+    display: inline-flex;
+}
+
+.dropdown {
+    display: inline;
+    color: lightblue;
+    text-decoration: none;
 }
